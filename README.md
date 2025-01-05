@@ -1,4 +1,7 @@
-## ✨Oii! Sou a Ludmila Nunes, UX/UI designer e graduanda em Engenharia de Software
+## ✨Oii! Sou a Ludmila Nunes
+- 🪶 UX/UI designer
+- 💻 Graduanda em Engenharia de Software pela UnB
+- 🌱 Aprendendo Javascript e C
 
 <a href="https://github.com/ludmilaaysha/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilaaysha&show_icons=true&theme=radical" />
