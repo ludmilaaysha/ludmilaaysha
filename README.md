@@ -32,7 +32,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ludmilaaysha/ludmilaaysha/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--Here are some ideas to get you started:
+<!--Here are some ideas to get you started
 <div>
   <a href="https://github.com/ludmilaaysha/ludmilaaysha">
     
