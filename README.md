@@ -1,7 +1,7 @@
-## ✨Oii! Sou a Ludmila Nunes
+## ✨Hi! I'm Ludmila Nunes
 - 🪶 UX/UI designer
-- 💻 Graduanda em Engenharia de Software pela UnB
-- 🌱 Aprendendo Javascript e C
+- 💻 Software Engineering student at University of Brasília
+- 🌱 Currently learning Javascript and C
 
 <a href="https://github.com/ludmilaaysha/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilaaysha&show_icons=true&theme=radical" />
