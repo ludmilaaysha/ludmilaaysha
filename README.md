@@ -6,7 +6,9 @@
 <a href="https://github.com/ludmilaaysha/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ludmilaaysha&show_icons=true&theme=radical" />
 </a>
-
+<a href="https://github.com/ludmilaaysha/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludmilaaysha&layout=compact&langs_count=8&show_icons=true&theme=radical" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lud-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
